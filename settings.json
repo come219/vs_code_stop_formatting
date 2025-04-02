@@ -1,0 +1,37 @@
+{
+    "[dart]": {
+        "editor.formatOnSave": false,
+        "editor.formatOnType": false,  // <- Now fully disabled
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "window.zoomLevel": -1,
+    "json.schemas": [],
+    "workbench.settings.applyToAllProfiles": [
+        "editor.formatOnSave",
+        "editor.formatOnPaste",
+        "editor.formatOnType",
+        "editor.defaultFormatter"
+    ],
+    "animations.Install-Method": "Apc Customize UI++",
+    "update.mode": "manual",
+    "apc.imports": [
+        "file:///c:/Users/user/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+    ],
+    "editor.fontSize": 16,
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "formattingToggle.affects": [
+
+        "editor.formatOnPaste",
+        "editor.formatOnSave",
+        "editor.formatOnType"
+    ]
+}
